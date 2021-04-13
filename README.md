@@ -11,13 +11,18 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://stephanjarisch.com/images/github_icons/visual-studio-code-icon.png" />]
-[<img align="left" alt="Python" width="26px" src="https://stephanjarisch.com/images/github_icons/python-icon.png" />]
-[<img align="left" alt="PHP" width="26px" src="https://stephanjarisch.com/images/github_icons/php-icon.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://stephanjarisch.com/images/github_icons/html-icon.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://stephanjarisch.com/images/github_icons/css-icon.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://stephanjarisch.com/images/github_icons/javascript-icon.png" />]
-[<img align="left" alt="Git" width="26px" src="https://stephanjarisch.com/images/github_icons/git-icon.png" />]
-[<img align="left" alt="Github" width="26px" src="https://stephanjarisch.com/images/github_icons/github-icon.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="icons/visual-studio-code-icon.png" />]
+[<img align="left" alt="Python" width="26px" src="icons/python-icon.png" />]
+[<img align="left" alt="PHP" width="26px" src="icons/php-icon.png" />]
+[<img align="left" alt="HTML5" width="26px" src="icons/html-icon.png" />]
+[<img align="left" alt="CSS3" width="26px" src="icons/css-icon.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="icons/javascript-icon.png" />]
+[<img align="left" alt="MySQL" width="26px" src="icons/mysql-icon.png" />]
+[<img align="left" alt="Windows" width="26px" src="icons/windows-icon.png" />]
+[<img align="left" alt="Ubuntu" width="26px" src="icons/ubuntu-icon.png" />]
+[<img align="left" alt="MacOS" width="26px" src="icons/apple-icon.png" />]
+[<img align="left" alt="Git" width="26px" src="icons/git-icon.png" />]
+[<img align="left" alt="Github" width="26px" src="icons/github-icon.png" />]
+[<img align="left" alt="Terminal" width="26px" src="icons/terminal-icon.png" />]
 
 ---

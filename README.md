@@ -11,8 +11,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://stephanjarisch.com/images/github_icons/visual-studio-code.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://stephanjarisch.com/images/github_icons/visual-studio-code-icon.png" />]
 [<img align="left" alt="Python" width="26px" src="https://stephanjarisch.com/images/github_icons/python-icon.png" />]
+[<img align="left" alt="PHP" width="26px" src="https://stephanjarisch.com/images/github_icons/php-icon.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://stephanjarisch.com/images/github_icons/html-icon.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://stephanjarisch.com/images/github_icons/css-icon.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://stephanjarisch.com/images/github_icons/javascript-icon.png" />]

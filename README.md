@@ -24,5 +24,5 @@
 <img align="left" alt="Git" width="26px" src="icons/git-icon.png" />
 <img align="left" alt="Github" width="26px" src="icons/github-icon.png" />
 <img align="left" alt="Terminal" width="26px" src="icons/terminal-icon.png" />
-
+<br />
 ---

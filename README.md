@@ -16,3 +16,5 @@
 [<img align="left" alt="HTML5" width="26px" src="https://stephanjarisch.com/images/github_icons/html-icon.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://stephanjarisch.com/images/github_icons/css-icon.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://stephanjarisch.com/images/github_icons/javascript-icon.png" />]
+[<img align="left" alt="Git" width="26px" src="https://stephanjarisch.com/images/github_icons/git-icon.png" />]
+[<img align="left" alt="Github" width="26px" src="https://stephanjarisch.com/images/github_icons/github-icon.png" />]

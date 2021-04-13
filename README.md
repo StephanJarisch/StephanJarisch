@@ -8,7 +8,6 @@
 - 🥅 2021 Goals: Finish my Masterthesis and apply to Jobs in Computer Vision.
 - ⚡ Fun fact: I love to play chess and soccer.
 
-<br />
 
 ### Languages and Tools:
 
@@ -20,8 +19,5 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://stephanjarisch.com/images/github_icons/javascript-icon.png" />]
 [<img align="left" alt="Git" width="26px" src="https://stephanjarisch.com/images/github_icons/git-icon.png" />]
 [<img align="left" alt="Github" width="26px" src="https://stephanjarisch.com/images/github_icons/github-icon.png" />]
-
-<br />
-<br />
 
 ---

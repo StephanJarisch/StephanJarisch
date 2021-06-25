@@ -1,6 +1,6 @@
 ### Hi there, I'm Stephan 👋
 
-## I'm a Student in Sports Technology!
+## I'm a Computer Vision Developer!
 
 - 🔭 I work as a Computer Vision Developer at Lympik!
 - 🌱 I’m combining my love for Sports and Technology

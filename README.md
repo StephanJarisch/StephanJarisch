@@ -1,8 +1,8 @@
 ### Hi there, I'm Stephan 👋
 
-## I'm a Computer Vision Developer!
+## I'm an AI Developer!
 
-- 🔭 I work as a AI Developer at AILETIC!
+- 🔭 I work as an AI Developer at AILETIC!
 - 🌱 I’m combining my love for Sports and Technology
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Creating stunning AI applications

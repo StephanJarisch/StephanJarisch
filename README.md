@@ -2,10 +2,10 @@
 
 ## I'm a Computer Vision Developer!
 
-- 🔭 I work as a Computer Vision Developer at Lympik!
+- 🔭 I work as a AI Developer at AILETIC!
 - 🌱 I’m combining my love for Sports and Technology
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Creating stunning AI applications
+- 🥅 2022 Goals: Creating stunning AI applications
 - ⚡ Fun fact: I love to play chess and soccer.
 
 

@@ -5,7 +5,7 @@
 - 🔭 I work as an AI Developer at AILETIC!
 - 🌱 I’m combining my love for Sports and Technology
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Creating stunning AI applications
+- 🥅 2023 Goals: Creating stunning AI applications
 - ⚡ Fun fact: I love to play chess and soccer.
 
 
